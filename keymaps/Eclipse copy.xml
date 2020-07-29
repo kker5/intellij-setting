@@ -1,0 +1,15 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="MakeGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+</keymap>

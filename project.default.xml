@@ -1,0 +1,90 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/git/data-flow-sample-apps" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/eldorado" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/gravity" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/gravity_temp" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/interstellar" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/javafx-demo" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/kakaopay-erpgate" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/korona" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-admin" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-kakao-admin" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-payment-common" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-reseller-admin/reseller-admin-back-java" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-reseller-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-reseller-common" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-reseller-jobs" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-settlement-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-settlement-common" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/pg-settlement-jobs" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/spock-mock" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/supercelltest/settlement-report" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/ui-maker" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/voyager-admin" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/voyager-admin-temp" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/voyager-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/voyager-batch" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git/voyager-common" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/voyager-batch/voyager-batch" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
